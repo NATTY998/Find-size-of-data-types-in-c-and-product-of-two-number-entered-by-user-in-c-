@@ -55,7 +55,7 @@ int main() 
 }
 
 
-//product of two numbers entered by user//
+//product of two numbers entered by user
 
 #include <iostream>
 using namespace std;
